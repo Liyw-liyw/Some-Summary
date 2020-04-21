@@ -1,5 +1,9 @@
 # 实现灰度页面
-## filter: grayscale(100%);
+```css
+body {
+  filter: grayscale(100%);
+} 
+```
 
 # 实现真.1px边框
 ```css
